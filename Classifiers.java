@@ -1,4 +1,4 @@
-//Assignment 2. Syed Azeem Ahmed Quadri, 20052050
+//Syed Azeem Ahmed Quadri
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
